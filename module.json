@@ -38,5 +38,7 @@
     }
   ],
   "readme": "README.md",
-  "flags": {}
+  "flags": {},
+  "manifest": "https://github.com/budzyn0/delta-green-book-style/releases/latest/download/module.json",
+  "download": "https://github.com/budzyn0/delta-green-book-style/releases/latest/download/delta-green-book-style.zip"
 }
