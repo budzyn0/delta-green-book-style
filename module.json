@@ -1,0 +1,42 @@
+{
+  "id": "delta-green-book-style",
+  "title": "Delta Green Original Style Character Sheet",
+  "description": "Module that applies a custom look to character actor sheets.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    { "name": "Budzyn"}
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "deltagreen",
+        "type": "system",
+        "manifest": "https://github.com/TheLastScrub/delta-green-foundry-vtt-system/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "1.6.1",
+          "verified": "1.6.1"
+        }
+      }
+    ]
+  },
+  "esmodules": [ "scripts/dg-original.js" ],
+  "styles": [ "styles/theme.css" ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "lang/pl.json"
+    }
+  ],
+  "readme": "README.md",
+  "flags": {}
+}
