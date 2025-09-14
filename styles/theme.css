@@ -1,21 +1,22 @@
 /* Book Style */
-.window-content.book-style{
+.window-content.book-style {
   background: url("../assets/CrumpledPlainPaper10.webp") !important;
   background-size: 100% !important;
 }
-.deltagreen section.window-content.book-style{
+.deltagreen section.window-content.book-style {
   overflow-y: auto;
 }
-.book-style section{
+.book-style section {
   margin: 5px 0px;
 }
-.book-style .section-2-boxes table tr td:nth-of-type(1), .book-style .section-flex table td:nth-of-type(1)  {
+.book-style .section-2-boxes table tr td:nth-of-type(1),
+.book-style .section-flex table td:nth-of-type(1) {
   border-left: 0px;
 }
-.book-style .m-l-5{
+.book-style .m-l-5 {
   margin-left: 5px;
 }
-.book-style .font-size-12{
+.book-style .font-size-12 {
   font-size: 12px;
 }
 .book-style .header-top-logo-row {
@@ -24,41 +25,41 @@
   align-items: center;
   margin-bottom: 5px;
 }
-.deltagreen .sheet-header{
-  display:block !important;
+.deltagreen .sheet-header {
+  display: block !important;
 }
-.book-style .bg-black{
+.book-style .bg-black {
   background: #000000;
 }
-.book-style .logo-img{
+.book-style .logo-img {
   width: auto;
   height: 55px;
   margin: auto;
 }
-.deltagreen .book-style .sheet-header .profile-img{
+.deltagreen .book-style .sheet-header .profile-img {
   width: 120px;
   height: 120px;
   min-height: 100px;
   background-color: #000000;
   margin: auto;
 }
-.book-style table td.padding-eq15{
+.book-style table td.padding-eq15 {
   padding: 15px !important;
 }
-.book-style .section-flex{
+.book-style .section-flex {
   display: flex;
 }
-.book-style .section-flex .section-flex-header{
-  display:flex;
+.book-style .section-flex .section-flex-header {
+  display: flex;
 }
-.book-style .section-flex .section-flex-header p{
+.book-style .section-flex .section-flex-header p {
   writing-mode: sideways-lr;
   text-transform: uppercase;
   color: white;
   padding: 10px 15px;
   text-align: center;
 }
-.book-style .section-flex .section-flex-content table{
+.book-style .section-flex .section-flex-content table {
   margin: 0px;
   background: none;
   width: 100%;
@@ -66,7 +67,7 @@
 .book-style table tr.col-2 td {
   width: 50%;
 }
-.book-style .w-10{
+.book-style .w-10 {
   width: 10%;
 }
 .book-style .w-15 {
@@ -87,7 +88,7 @@
 .book-style .w-60 {
   width: 60%;
 }
-.book-style .cell-center{
+.book-style .cell-center {
   text-align: center;
   vertical-align: middle;
   padding: 10px;
@@ -95,7 +96,9 @@
 .book-style table.merged-table tr:first-of-type td {
   border-top: 0px;
 }
-.book-style table input, .book-style table textarea, .book-style .impossible-landscapes-section-content input {
+.book-style table input,
+.book-style table textarea,
+.book-style .impossible-landscapes-section-content input {
   background: #e7e7e7;
   border-radius: 0px;
   width: 100%;
@@ -104,7 +107,7 @@
   margin-top: 5px;
   --input-placeholder-color: #919191;
 }
-.book-style table td{
+.book-style table td {
   border: 3px solid #000000;
   padding: 5px 15px 15px 15px;
 }
@@ -114,75 +117,84 @@
 .book-style section.section-2-boxes {
   display: flex;
 }
-.book-style section.section-2-boxes > div, .book-style .section-flex-content {
+.book-style section.section-2-boxes > div,
+.book-style .section-flex-content {
   flex: 1;
 }
 .book-style .inputs-13 {
   display: flex;
 }
-.book-style table.skills-table .flexrow{
+.book-style table.skills-table .flexrow {
   padding: 0px 5px;
 }
-.book-style table.skills-table input.percentile-skill-input{
+.book-style table.skills-table input.percentile-skill-input {
   margin-top: 0px;
   padding: 0px;
 }
-.book-style table.skills-table input.checkbox-skill-input, .book-style input.item-bond-damage, .book-style .impossible-landscapes-section-content input[type="checkbox"] {
+.book-style table.skills-table input.checkbox-skill-input,
+.book-style input.item-bond-damage,
+.book-style .impossible-landscapes-section-content input[type="checkbox"] {
   border: 0px;
   background: none;
 }
-.book-style table.skill-util-buttons td{
-  border:0px;
+.book-style table.skill-util-buttons td {
+  border: 0px;
   text-align: center;
   padding: 25px 0px;
 }
-.book-style .skill-util-buttons a{
+.book-style .skill-util-buttons a {
   background: #000000;
   color: white;
   padding: 10px;
   margin: auto !important;
   float: none;
 }
-.book-style .armor-table tr:nth-of-type(n+2) td:nth-of-type(1), .book-style .weapons-table tr:nth-of-type(n+2) td:nth-of-type(1), .book-style .other-gear-table tr:nth-of-type(n+2) td:nth-of-type(1){
-  width:6%;
+.book-style .armor-table tr:nth-of-type(n + 2) td:nth-of-type(1),
+.book-style .weapons-table tr:nth-of-type(n + 2) td:nth-of-type(1),
+.book-style .other-gear-table tr:nth-of-type(n + 2) td:nth-of-type(1) {
+  width: 6%;
   border-right: 3px solid #ff000000;
 }
-.book-style .armor-table tr:nth-of-type(2) td:nth-of-type(2), .book-style .weapons-table tr:nth-of-type(2) td:nth-of-type(2){
+.book-style .armor-table tr:nth-of-type(2) td:nth-of-type(2),
+.book-style .weapons-table tr:nth-of-type(2) td:nth-of-type(2) {
   border-left: 0px;
 }
-.book-style .section-flex .section-flex-content table.weapons-table, .book-style .section-flex .section-flex-content table.other-gear-table{
+.book-style .section-flex .section-flex-content table.weapons-table,
+.book-style .section-flex .section-flex-content table.other-gear-table {
   margin-top: 15px;
 }
-.book-style a.item-control.action-pill, .book-style a.btn-tiny {
+.book-style a.item-control.action-pill,
+.book-style a.btn-tiny {
   background: #000000;
   color: white;
   padding: 5px;
   margin: auto;
 }
-.book-style .input-inline-and-small{
+.book-style .input-inline-and-small {
   max-width: 30px;
   background: none;
   border: none;
 }
-.book-style .input-inline-and-small:before{
+.book-style .input-inline-and-small:before {
   font-size: 15px;
 }
-.book-style input[type="checkbox"]:checked:before{
+.book-style input[type="checkbox"]:checked:before {
   color: #ff000000;
   font-size: 1px;
 }
-.book-style input[type="checkbox"]:checked:after{
+.book-style input[type="checkbox"]:checked:after {
   color: #215112;
 }
-.book-style .exhaustion-label-second{
-  display:inline-block;
+.book-style .exhaustion-label-second {
+  display: inline-block;
   margin-right: 20px;
 }
-.book-style .input-exhaustion-penalty{
+.book-style .input-exhaustion-penalty {
   display: inline-block;
   max-width: 100px;
 }
-.book-style.modal-content input, .book-style.modal-content select {
+.book-style.modal-content input,
+.book-style.modal-content select {
   background: #e7e7e7;
   border-radius: 0px;
   color: #000000;
@@ -202,41 +214,48 @@
   margin-top: 5px;
   --input-placeholder-color: #919191;
 }
-.chat-message .message-content .dice hr{
+.chat-message .message-content .dice hr {
   background-color: #606060 !important;
   background-image: none;
   height: 1px;
 }
-.m-h-110{
+.m-h-110 {
   min-height: 110px;
 }
-.impossible-landscapes-section-content{
-  padding:15px;
+.impossible-landscapes-section-content {
+  padding: 15px;
   border: 3px solid #000000;
 }
-.bond-relationship-label{
+.bond-relationship-label {
   display: block;
   font-size: 10px;
   color: #353535;
   margin-top: 5px;
 }
-.lost-motivation-container{
+.lost-motivation-container {
   display: flex;
   flex-wrap: wrap;
   padding-top: 5px;
 }
-.lost-motivation-label{
-  order:2;
+.lost-motivation-label {
+  order: 2;
   font-size: 10px;
   color: #353535;
   margin-top: 5px;
 }
-.disorder-label{
+.disorder-label {
   font-weight: bold;
   font-style: italic;
   color: rgb(139, 0, 0);
-  flex:100%;
+  flex: 100%;
 }
-.bond-name-container{
+.bond-name-container {
   margin-top: 5px;
+}
+.custom-skills-while-basic-are-columnsorted {
+  display: block;
+  margin-top: 15px;
+}
+.skill-label{
+  cursor: pointer;
 }
