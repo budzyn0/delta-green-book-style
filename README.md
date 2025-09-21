@@ -1,6 +1,12 @@
 # Delta Green Book Style Character Sheet
 
-A Foundry VTT module that provides a custom "book-style" character sheet for the Delta Green system, designed to replicate the original paper character sheet aesthetic with a crumpled paper background and authentic layout.
+A fan-made Foundry VTT module that provides a custom "book-style" character sheet for the Delta Green system, designed to replicate the original paper character sheet aesthetic with a crumpled paper background and authentic layout.
+
+## Licensing
+
+Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Parternship, who has licensed its use here.
+
+The contents of this system are licensed under the terms of the MIT license, excepting those elements that are components of the Delta Green intellectual property.
 
 ## Features
 
