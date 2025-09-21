@@ -8,6 +8,9 @@ Published by arrangement with the Delta Green Partnership. The intellectual prop
 
 The contents of this system are licensed under the terms of the MIT license, excepting those elements that are components of the Delta Green intellectual property.
 
+
+This module is created for use with the Delta Green roleplaying game and Foundry VTT. Please respect the intellectual property of both.
+
 ## Features
 
 ### Visual Design
@@ -94,10 +97,6 @@ delta-green-book-style/
 ## Contributing
 
 This module is designed to enhance the Delta Green experience in Foundry VTT. If you encounter issues or have suggestions for improvements, please report them through the github. You are also welcome to push your changes as the PR to the repository.
-
-## License
-
-This module is created for use with the Delta Green roleplaying game and Foundry VTT. Please respect the intellectual property of both.
 
 ---
 
